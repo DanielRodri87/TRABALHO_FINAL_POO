@@ -2,13 +2,13 @@
 <h3>👋🏼 Olá! seja bem-vindo 👋🏼 </h3>
 <br>
 
-#### Projeto desenvolvido pelos aluno: Daniel Rodrigues de Sousa - Para a disciplina de Programação Orientatada a Objetos - 2024.1
+#### Projeto desenvolvido pelo aluno: Daniel Rodrigues de Sousa - Para a disciplina de Programação Orientatada a Objetos - 2024.1
 
 <br>
 
 ### Para executar, primeiro deve clonar a pasta para sua máquina
 ```bash
-git clone https://github.com/JeanCarlos899/ConfeitariaPaulistana.git
+git clone https://github.com/DanielRodri87/TRABALHO_FINAL_POO.git
 ```
 <br>
 
